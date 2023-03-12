@@ -8,3 +8,4 @@ The data set contains dataset of over 3 million Instacart orders, provided by In
 *Citation: “The Instacart Online Grocery Shopping Dataset 2017”, Accessed from https://www.instacart.com/datasets/grocery-shopping-2017 on 02 Mar 2023.*
 
 ## Result & Recommendations
+Customers were segmented by their age, location, family status, income and shopping preferences.
