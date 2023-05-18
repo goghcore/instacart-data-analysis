@@ -16,7 +16,7 @@ The data set contains dataset of over 3 million Instacart orders, provided by In
 **Descriptive analysis**: By applying descriptive analysis, customers are segmented based on their behavior and preferences. This involves analyzing factors like age, location, family status, income, and shopping preferences to identify distinct customer segments with specific characteristics and needs.
 
 ## Tools
-The project utilizes a combination of tools to analyze the dataset and generate insights. Python libraries such as numpy, pandas, matplotlib, and seaborn are utilized for data manipulation, statistical analysis, and data visualization. The results are condensed into a data report in Excel, detailing the data population flow, changes, findings and recommendations.
+The project utilizes a combination of tools to analyze the dataset and generate insights. Python libraries such as numpy, pandas, matplotlib, and seaborn are used for data manipulation, statistical analysis, and data visualization. The results are condensed into a data report in Excel, detailing the data population flow, changes, findings and recommendations.
 
 ## Result & Recommendations
 Customers are segmented by their age, location, family status, income and shopping preferences. Recommendations are made to tailor marketing strategies to better cater to the needs and preferences of Instacart customer base.
